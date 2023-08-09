@@ -1,9 +1,9 @@
-from combined import die, game, analyzer
+from montecarlo import die, game, analyzer
 import unittest
 import pandas as pd
 import numpy as np
 
-class combinedTestSuite(unittest.TestCase):
+class montecarloTestSuite(unittest.TestCase):
     
     def test_1_die(self):
         die1 = die(np.array([1,2,3,4,5,6]))
