@@ -1,0 +1,17 @@
+test_1_analyzer (__main__.combinedTestSuite) ... ok
+test_1_die (__main__.combinedTestSuite) ... ok
+test_1_game (__main__.combinedTestSuite) ... ok
+test_2_analyzer (__main__.combinedTestSuite) ... ok
+test_2_die (__main__.combinedTestSuite) ... ok
+test_2_game (__main__.combinedTestSuite) ... ok
+test_3_analyzer (__main__.combinedTestSuite) ... ok
+test_3_die (__main__.combinedTestSuite) ... ok
+test_3_game (__main__.combinedTestSuite) ... ok
+test_4_analyzer (__main__.combinedTestSuite) ... ok
+test_4_die (__main__.combinedTestSuite) ... ok
+test_5_analyzer (__main__.combinedTestSuite) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.086s
+
+OK
